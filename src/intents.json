@@ -1,0 +1,183 @@
+{
+  "intents": [
+    {
+      "tag": "greeting",
+      "patterns": [
+        "Hi",
+        "Hey",
+        "How are you",
+        "Is anyone there?",
+        "Hello",
+        "Good day"
+      ],
+      "responses": [
+        "Hey :-)",
+        "Hello, thanks for visiting",
+        "Hi there, what can I do for you?",
+        "Hi there, how can I help?"
+      ]
+    },
+    {
+      "tag": "goodbye",
+      "patterns": [
+        "Bye",
+        "See you later",
+        "Goodbye"
+      ],
+      "responses": [
+        "See you later, thanks for visiting",
+        "Have a nice day",
+        "Bye! Come back again soon."
+      ]
+    },
+    {
+      "tag": "thanks",
+      "patterns": [
+        "Thanks",
+        "Thank you",
+        "That's helpful",
+        "Thank's a lot!"
+      ],
+      "responses": [
+        "Happy to help!",
+        "Any time!",
+        "My pleasure"
+      ]
+    },
+    {
+      "tag": "neuro_intro",
+      "patterns": [
+        "What is neuroscience?",
+        "Tell me about the brain",
+        "Explain neuroscience to me"
+      ],
+      "responses": [
+        "Neuroscience is the scientific study of the nervous system.",
+        "The brain is a complex organ responsible for various functions in the body.",
+        "In neuroscience, we explore the structure and function of the nervous system."
+      ]
+    },
+    {
+      "tag": "neuro_functions",
+      "patterns": [
+        "What functions does the brain control?",
+        "Tell me about brain functions"
+      ],
+      "responses": [
+        "The brain controls a wide range of functions, including movement, perception, and cognition.",
+        "Functions of the brain include processing sensory information, regulating emotions, and controlling motor activities."
+      ]
+    },
+    {
+      "tag": "neuro_disorders",
+      "patterns": [
+        "What are common neurological disorders?",
+        "Tell me about brain disorders"
+      ],
+      "responses": [
+        "Common neurological disorders include Alzheimer's disease, Parkinson's disease, and epilepsy.",
+        "Neurological disorders affect the brain and nervous system, leading to various symptoms and challenges."
+      ]
+    },
+    {
+      "tag": "neuro_research",
+      "patterns": [
+        "Tell me about current neuroscience research",
+        "What are the latest findings in neuroscience?"
+      ],
+      "responses": [
+        "Current neuroscience research explores topics such as neuroplasticity, brain-computer interfaces, and the neural basis of consciousness.",
+        "Researchers are studying the brain to understand its complexities and develop new treatments for neurological conditions."
+      ]
+    },
+    {
+      "tag": "neuro_careers",
+      "patterns": [
+        "What careers are available in neuroscience?",
+        "Tell me about neuroscience career options"
+      ],
+      "responses": [
+        "Careers in neuroscience include neuroscientist, neurologist, neurosurgeon, and neuropsychologist.",
+        "Individuals in the field of neuroscience contribute to advancing our understanding of the brain and improving treatments for neurological disorders."
+      ]
+    },
+    {
+      "tag": "neuro_anatomy",
+      "patterns": [
+        "Can you explain the anatomy of the brain?",
+        "Tell me about brain anatomy"
+      ],
+      "responses": [
+        "The brain consists of several regions, including the frontal lobe, parietal lobe, temporal lobe, and occipital lobe.",
+        "Each brain region has specific functions, and understanding brain anatomy is crucial for studying neurological phenomena."
+      ]
+    },
+    {
+      "tag": "neuro_ethics",
+      "patterns": [
+        "What are the ethical considerations in neuroscience research?",
+        "Tell me about neuroscience ethics"
+      ],
+      "responses": [
+        "Ethical considerations in neuroscience include informed consent, animal welfare, and ensuring the privacy of research participants.",
+        "Researchers in neuroscience adhere to ethical standards to ensure the responsible conduct of their studies."
+      ]
+    },
+    {
+      "tag": "neuro_treatments",
+      "patterns": [
+        "What are the latest treatments for neurological disorders?",
+        "Tell me about advancements in neurology treatments"
+      ],
+      "responses": [
+        "Advancements in neurology treatments include precision medicine, deep brain stimulation, and gene therapy.",
+        "Researchers and clinicians are continually working to develop more effective treatments for various neurological conditions."
+      ]
+    },
+    {
+      "tag": "user_defined_12",
+      "patterns": [
+        "why neuroscience?"
+      ],
+      "responses": [
+        "I think neuroscience is important because it ties well with my interests in English since language is how we understand the world, it only make sense I study the organ that perceives and comprehends language."
+      ]
+    },
+    {
+      "tag": "user_defined_13",
+      "patterns": [
+        "tell me more about cell?"
+      ],
+      "responses": [
+        "Cells are the basic building blocks of all living things."
+      ]
+    },
+    {
+      "tag": "user_defined_14",
+      "patterns": [
+        "tell me about cars"
+      ],
+      "responses": [
+        "cars are 4 wheeled vehicles that are used for transportation."
+      ]
+    },
+    {
+      "tag": "user_defined_15",
+      "patterns": [
+        "name"
+      ],
+      "responses": [
+        "My name is NeuroScienceBot"
+      ]
+    },
+    {
+      "tag": "user_defined_16",
+      "patterns": [
+        "neuron"
+      ],
+      "responses": [
+        "Neurons are nerve cells that send messages all over your body to allow you to do everything from breathing to talking, eating, walking, and thinking."
+      ]
+    }
+  ]
+}
